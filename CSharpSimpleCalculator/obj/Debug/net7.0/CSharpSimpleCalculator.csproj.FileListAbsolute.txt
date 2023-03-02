@@ -1,0 +1,15 @@
+D:\Work\Projects\CSharpSimpleCalculator\CSharpSimpleCalculator\bin\Debug\net7.0\CSharpSimpleCalculator.exe
+D:\Work\Projects\CSharpSimpleCalculator\CSharpSimpleCalculator\bin\Debug\net7.0\CSharpSimpleCalculator.deps.json
+D:\Work\Projects\CSharpSimpleCalculator\CSharpSimpleCalculator\bin\Debug\net7.0\CSharpSimpleCalculator.runtimeconfig.json
+D:\Work\Projects\CSharpSimpleCalculator\CSharpSimpleCalculator\bin\Debug\net7.0\CSharpSimpleCalculator.dll
+D:\Work\Projects\CSharpSimpleCalculator\CSharpSimpleCalculator\bin\Debug\net7.0\CSharpSimpleCalculator.pdb
+D:\Work\Projects\CSharpSimpleCalculator\CSharpSimpleCalculator\obj\Debug\net7.0\CSharpSimpleCalculator.csproj.AssemblyReference.cache
+D:\Work\Projects\CSharpSimpleCalculator\CSharpSimpleCalculator\obj\Debug\net7.0\CSharpSimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Projects\CSharpSimpleCalculator\CSharpSimpleCalculator\obj\Debug\net7.0\CSharpSimpleCalculator.AssemblyInfoInputs.cache
+D:\Work\Projects\CSharpSimpleCalculator\CSharpSimpleCalculator\obj\Debug\net7.0\CSharpSimpleCalculator.AssemblyInfo.cs
+D:\Work\Projects\CSharpSimpleCalculator\CSharpSimpleCalculator\obj\Debug\net7.0\CSharpSimpleCalculator.csproj.CoreCompileInputs.cache
+D:\Work\Projects\CSharpSimpleCalculator\CSharpSimpleCalculator\obj\Debug\net7.0\CSharpSimpleCalculator.dll
+D:\Work\Projects\CSharpSimpleCalculator\CSharpSimpleCalculator\obj\Debug\net7.0\refint\CSharpSimpleCalculator.dll
+D:\Work\Projects\CSharpSimpleCalculator\CSharpSimpleCalculator\obj\Debug\net7.0\CSharpSimpleCalculator.pdb
+D:\Work\Projects\CSharpSimpleCalculator\CSharpSimpleCalculator\obj\Debug\net7.0\CSharpSimpleCalculator.genruntimeconfig.cache
+D:\Work\Projects\CSharpSimpleCalculator\CSharpSimpleCalculator\obj\Debug\net7.0\ref\CSharpSimpleCalculator.dll
